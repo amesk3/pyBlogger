@@ -1,3 +1,4 @@
+__pacage__ = None
 import pymongo
 
 
